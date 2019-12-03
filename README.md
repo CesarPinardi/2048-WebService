@@ -2,7 +2,7 @@
 
 <h2>Jogo criado a partir de um projeto Java com intergração de WebService REST.</h2>
 
-<h2>Instruçes</h2>
+<h2>Instruções</h2>
 <p>Primeiramente, baixar a biblioteca GSON.
 <p>Baixar os arquivos de pkg2048;
 <p>Criando os projetos:
